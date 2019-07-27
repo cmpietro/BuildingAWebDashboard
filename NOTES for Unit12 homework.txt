@@ -1,0 +1,22 @@
+1.  Create a landing page. 
+
+2.  Create a visualization page - (4?)
+
+3.  Create a comparison page
+
+4.  Create a Data page. 
+
+I must: 
+
+1.  Have a navigation menu that flows user from page to page and back.
+2.  must have a dropdown on the right of the navbar named PLOTS with links to visualizations
+3.  two or more links to the right - comparisons link, data link etc
+4.  must be responsive using media queries.
+
+
+Deploy to gib hub
+
+Weather or cities data set.
+
+must use bootstrap
+
