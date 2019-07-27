@@ -1,5 +1,7 @@
 # Unit12-WebDashboard
 
+Your site is published at https://cmpietro.github.io/Unit12-WebDashboard/
+
 Required elements: 
 Landing page:  index.html
 Comparison page:  Comparison.html
