@@ -20,3 +20,47 @@ Weather or cities data set.
 
 must use bootstrap
 
+Copyright :-)
+
+<footer>
+        <small>&copy; Copyright 2018, Example Corporation</small>
+</footer>
+
+DRAFT CODING:
+
+!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Bootstrap Visualization Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+
+  <!--CSS Link-->
+  <link rel="stylesheet" type="stylesheet/css" href="style.css">
+
+THEN ADD BODY
+
+NAVIGATION
+<div class="navigation">
+    <nav class="navbar navbar-expand-lg navbar-light">
+    
+    PLOTS
+    
+    Content section
+    
+    Left box
+    
+    Right box
+    
+    FOOTER
+    
+    THEN END - X 7
+    
+
